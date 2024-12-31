@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a passionate data analyst and aspiring data scientis
 
 ## 🛠️ My Projects  
 Here are some highlights of my work:  
-- **[Project 1](link-to-project)**
+- **Go Through My Profile**
 
 ## 📫 Let's Connect!  
 Feel free to reach out if you'd like to collaborate or chat about data analysis, SQL, or career development:  
