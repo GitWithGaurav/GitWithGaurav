@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gaurav Panchal. 
+# Hi there!👋 I'm Gaurav Panchal. 
 
 Welcome to my GitHub! I’m a passionate data analyst and aspiring data scientist dedicated to turning raw data into actionable insights.  
 
